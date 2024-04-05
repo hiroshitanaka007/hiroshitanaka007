@@ -10,6 +10,7 @@
 - ⏱ Flexible working timezone.
 - 🍻 Excellent communication skills.
 
+- 👀👀👀 Please feel free to contact me if you need a smart and awesome developer. hiroshitana@outlook.com
 
 <h2>My stack :man_technologist:</h2>
 
